@@ -1,0 +1,5 @@
+c:\users\owner\documents\visual studio 2013\Projects\TwoNumbers\TwoNumbers\bin\Debug\TwoNumbers.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\TwoNumbers\TwoNumbers\bin\Debug\TwoNumbers.exe
+c:\users\owner\documents\visual studio 2013\Projects\TwoNumbers\TwoNumbers\bin\Debug\TwoNumbers.pdb
+c:\users\owner\documents\visual studio 2013\Projects\TwoNumbers\TwoNumbers\obj\Debug\TwoNumbers.exe
+c:\users\owner\documents\visual studio 2013\Projects\TwoNumbers\TwoNumbers\obj\Debug\TwoNumbers.pdb
